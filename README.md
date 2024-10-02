@@ -1,6 +1,6 @@
 # python-person-class
 
-## ASsignment
+## Assignment
 Create a Python class named Person.
 The Person class should have the following attributes:
 name: representing the person's name.
