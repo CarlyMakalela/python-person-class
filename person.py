@@ -5,7 +5,7 @@ class Person:
         self.gender = gender
     
     def introduce(self):
-        print(f"Hello, my name is {self.name}. I am {self.age} years old and I identify as {self.gender}.")
+        print(f"Hello, my name is {self.name}. I am {self.age} years old and I am a {self.gender}.")
 
 # Create an instance of the Person class
 Carly = Person("Carly Makalela", 25, "female")
